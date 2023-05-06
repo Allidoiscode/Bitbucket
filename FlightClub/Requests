@@ -1,0 +1,17 @@
+# GET https://www.flightclub.com/catalogsearch/result?query=retro%205 HTTP/1.1
+# Host: www.flightclub.com
+# Connection: keep-alive
+# sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"
+# sec-ch-ua-mobile: ?0
+# sec-ch-ua-platform: "Windows"
+# Upgrade-Insecure-Requests: 1
+# User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+# Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+# Sec-Fetch-Site: same-origin
+# Sec-Fetch-Mode: navigate
+# Sec-Fetch-User: ?1
+# Sec-Fetch-Dest: document
+# Referer: https://www.flightclub.com/
+# Accept-Encoding: gzip, deflate, br
+# Accept-Language: en-US,en;q=0.9
+# Cookie: ConstructorioID_client_id=5df117a5-eae7-4d56-b696-9a1954c3e34e; country=US; countryName=United%20States; currencyCode=USD; _scid=c710f5ac-a465-4cab-bc88-ff078057e2ec; _gcl_au=1.1.1784447948.1683050705; _gid=GA1.2.651698156.1683050705; _sctr=1%7C1683000000000; _gac_UA-4974100-1=1.1683122047.CjwKCAjwjMiiBhA4EiwAZe6jQ4TQJ7p210FTjK9X_WCcKa3ZQ57qm6trhGxt1VFYzDx9qNjUF1opghoCEU0QAvD_BwE; __cf_bm=F95L_PN7_2zTmd4VJer6p41kS7yrhpZKb8BaqlWZDxw-1683242570-0-ASj+9eo7+RTfBwqnVt2DMv2M3uOalij/uy1xrOdRrBmUQigr4NFr/T46N+WGGhbX6S7ta67POLsKKmwK2CntGCA=; ConstructorioID_session_id=8; OptanonConsent=isIABGlobal=false&datestamp=Thu+May+04+2023+19%3A33%3A38+GMT-0400+(Eastern+Daylight+Time)&version=6.14.0&hosts=&consentId=e8a5735d-237d-445a-85f0-11411b093e18&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false; _scid_r=c710f5ac-a465-4cab-bc88-ff078057e2ec; IR_gbd=flightclub.com; IR_12612=1683243218370%7C0%7C1683243218370%7C%7C; ConstructorioID_session={"sessionId":8,"lastTime":1683243218689}; _ga_GMJ0RMZHDX=GS1.1.1683242573.9.0.1683243218.0.0.0; _ga=GA1.1.782126076.1683050705; _gat_mpgaTracker1=1; _nocache=undefined; _csrf=wXjqtihxmudaUGY0Q4bm9vk5; _xsrf=SMmC4oyl-0o3iP35MTYw7H1HlnslsJ4XRJnc; currency=%7B%22isoCode%22%3A%22USD%22%2C%22name%22%3A%22United%20States%20Dollar%22%2C%22symbol%22%3A%22%24%22%2C%22disambiguatedSymbol%22%3A%22US%24%22%2C%22symbolFirst%22%3Atrue%2C%22thousandsSeparator%22%3A%22%2C%22%2C%22decimalMark%22%3A%22.%22%2C%22hasNoCents%22%3Afalse%2C%22rate%22%3A1%7D
